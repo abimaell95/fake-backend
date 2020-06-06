@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ksda3",
+    "content": "hola amigos",
+    "user_id": "asd43asd",
+    "liked": true
+  },
+  {
+    "id": "asdsa",
+    "content": "hola taws",
+    "user_id": "asd43asd",
+    "liked": true
+  },
+  {
+    "id": "dasd3",
+    "content": "que haces",
+    "user_id": "asd43asd",
+    "liked": false
+  }
+]
