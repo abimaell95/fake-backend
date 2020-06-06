@@ -2,26 +2,31 @@
   {
     "id": "ksda3",
     "content": "hola amigos",
-    "user_id": "asd43asd"
+    "user_id": "asd43asd",
+    "liked": true
   },
   {
     "id": "a34as",
     "content": "hola gente",
-    "user_id": "asd47asd"
+    "user_id": "asd47asd",
+    "liked": false
   },
   {
     "id": "asdsa",
     "content": "hola taws",
-    "user_id": "asd43asd"
+    "user_id": "asd43asd",
+    "liked": true
   },
   {
     "id": "sad33",
     "content": "tengo sueño",
-    "user_id": "asd48asd"
+    "user_id": "asd48asd",
+    "liked": false
   },
   {
     "id": "dasd3",
     "content": "que haces",
-    "user_id": "asd43asd"
+    "user_id": "asd43asd",
+    "liked": false
   }
 ]
